@@ -11,8 +11,6 @@ categories:
 - Tools
 ---
 
-# Git Submodule
-
 > **运行环境**
 > 
 > Git 2.18.0.windows.1 **Running on** Win7x64
