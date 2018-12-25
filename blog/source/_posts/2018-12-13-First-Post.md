@@ -14,4 +14,6 @@ categories:
 
 # 首篇文章
 
+<!-- more -->
+
 Hello World!
